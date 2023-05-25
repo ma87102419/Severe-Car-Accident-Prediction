@@ -1,6 +1,6 @@
 # VT Data Analysis Course Project - Severe car accident prediction
 
-The main goal of this project is to learn the patterns of a severe car accident in the United States and predict whether a car accident is severe when it occurs.
+The main goal of this project is to learn the patterns of severe car accidents in the United States and predict whether a car accident is severe when it occurs.
 
 ## Environments
 
